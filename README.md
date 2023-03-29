@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jury616
 - 👀 I’m interested in playing HonKai Impacy 3rd.
-- 🌱 I’m currently learning C and C++ 
+- 🌱 I’m currently learning C and machine learning 
 - 💞️ I’m looking to collaborate on promoting my GPA.
 - 📫 How to reach me: 1130376489@qq.com
 
