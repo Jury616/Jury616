@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jury616
-- 👀 I’m a student from BUPT.
-- 🌱 I’m currently learning Java, Python and machine learning 
-- 💞️ I’m looking to collaborate on learning more knowledge.
+- 👀 I’m a student from BUPT to RUC
+- 🌱 I’m currently learning Java, Python, C++ and machine learning 
+- 💞️ I’m looking to collaborate on learning more knowledge and find my job.
 - 📫 How to reach me: zhurui379@gmail.com
 
 <!---
